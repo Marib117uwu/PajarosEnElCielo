@@ -1,27 +1,25 @@
-##El trabajo esta hecho por Ivana Rocha Campos y Maribel Ramirez Torres.
+#Proyecto IoT (Pájaros en el cielo)
 
-#Pajaros en el cielo 
-
-##Pajaros en el aire
-Coloca aquí el nombre del personaje
-
+##Integrantes
+*Maribel Ramírez Torres
+*Ivana Rocha Campos
 ##Materiales utilizados
 |Nombre de componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
-|ESP32|Microcontralador con comunicación serial, wifi, bluetooth|1|$140.00|
+|ESP32|Microcontralador con comunicación serial, wifi|1|$140.00|
 |Cables Dupont|Cables MM HH MH para conexión de prototipos|50|$60.00|
-|carto resiclado 
+|Cartón reciclado 
 |Barras de silicon |10||$2|
-|Cartulinas |5||$20|
+|Cartulinas |1||$4|
 | Ojos |2| |$12|
-|Palos de madera |5| |$5|
+| Palos de madera |5| |$5|
+| Hojas recicladas |10|$10|
 
 
 ##Software utilizado
 |Nombre de Software|Versión|Tipo|
 |-|-|-|
 |Thonny|4.1.2|Software Libre|
-|SQLite|3|Software Libre|
 |ArduinoIDE|2.2.1|software libre
 
 ##Dibujo del prototipo a realizar.
@@ -38,9 +36,13 @@ Alusara  su cuerpo  y tendra sonido de pajaros que se escuchara cada ciero tiemp
 ##Arquitectura
  ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/361b8be6-d20d-498d-b0a8-8d2929d8a85e)(led)
 ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/2a20d29f-6b64-49ba-bf31-947d96316477)(ESP32)
-![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/d9b9a3fe-ac12-43da-ae64-ae66df4998ae)(sql Server)
 ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/3532333b-6ce2-4470-b4d6-6d287229e3ae)(sensores)
+  
+#Documentación del proyecto Navideño
+##Elaboración de códigos (Fotos)
+![image](https://github.com/Marib117uwu/PajarosEnElCielo/assets/135056294/a0ceeb07-93ee-45c0-953e-5f046daf5908)
+![image](https://github.com/Marib117uwu/PajarosEnElCielo/assets/135056294/979c3b8a-03c6-467b-bbb5-2dd4e050f740)
 
-##Base de datos
--Colocar una imagen del modelo relacional a utilizar.
-![Imagen de WhatsApp 2023-09-28 a las 11 01 04_b2fdefab](https://github.com/IvanaRocha/rEpositorio/assets/146135319/3ff6c867-87ca-4b40-b6bf-1488efd6cb43)
+##Flujo de Node-Red
+![image](https://github.com/Marib117uwu/PajarosEnElCielo/assets/135056294/d8d63502-bafe-4851-ac03-5034a88952fc)
+
