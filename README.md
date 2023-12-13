@@ -1,8 +1,10 @@
 #Proyecto IoT (Pájaros en el cielo)
 
 ##Integrantes
+
 *Maribel Ramírez Torres
 *Ivana Rocha Campos
+
 ##Materiales utilizados
 |Nombre de componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
