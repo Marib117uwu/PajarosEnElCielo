@@ -34,11 +34,13 @@ b)
 Alusara  su cuerpo  y tendra sonido de pajaros que se escuchara cada ciero tiempo y movera las alas   (Por medio de un sensor de movimiento al detectar una persona hara dicho anteriormente.).
 
 ##Arquitectura
+
  ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/361b8be6-d20d-498d-b0a8-8d2929d8a85e)(led)
 ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/2a20d29f-6b64-49ba-bf31-947d96316477)(ESP32)
 ![image](https://github.com/IvanaRocha/rEpositorio/assets/146135319/3532333b-6ce2-4470-b4d6-6d287229e3ae)(sensores)
   
 #Documentación del proyecto Navideño
+
 ##Elaboración de códigos (Fotos)
 ![image](https://github.com/Marib117uwu/PajarosEnElCielo/assets/135056294/a0ceeb07-93ee-45c0-953e-5f046daf5908)
 ![image](https://github.com/Marib117uwu/PajarosEnElCielo/assets/135056294/979c3b8a-03c6-467b-bbb5-2dd4e050f740)
